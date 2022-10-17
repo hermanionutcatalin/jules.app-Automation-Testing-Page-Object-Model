@@ -4,7 +4,7 @@ Site tested: jules.app
 Design pattern used: page object model
 
 To import project
-git clone 
+git clone https://github.com/hermanionutcatalin/jules.app-Automation-Testing-Page-Object-Model.git
 
 Libraries to install:
 pip install -U selenium
